@@ -1,0 +1,9 @@
+com\gentlab\bankapphibernate\domain\CurrentAccount.class
+com\gentlab\bankapphibernate\util\ClientDAO.class
+com\gentlab\bankapphibernate\ClientManager.class
+com\gentlab\bankapphibernate\domain\AccountTypes.class
+com\gentlab\bankapphibernate\domain\Client.class
+com\gentlab\bankapphibernate\domain\SavingsAccount.class
+com\gentlab\bankapphibernate\util\HibernateUtil.class
+com\gentlab\bankapphibernate\web\ClientsServlet.class
+com\gentlab\bankapphibernate\domain\Account.class

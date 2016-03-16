@@ -1,0 +1,13 @@
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\ClientManager.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\web\AccountDetailsServlet.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\web\ClientsServlet.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\AccountTypes.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\Client.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\util\ClientDAO.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\RequestTypes.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\util\HibernateUtil.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\Account.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\SavingsAccount.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\web\AccountsServlet.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\domain\CurrentAccount.java
+C:\Users\Iulian\workspace\BankAppHibernate\src\main\java\com\gentlab\bankapphibernate\util\AccountDAO.java

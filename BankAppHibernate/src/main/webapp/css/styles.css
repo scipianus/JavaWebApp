@@ -1,0 +1,38 @@
+table, th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+th, td {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+select {
+	margin: 10px 0px;
+}
+
+input[type="number"] {
+	text-align: center;
+	margin: 5px;
+}
+
+input[type="radio"] {
+	margin: 5px;
+}
+
+fieldset {
+	display: inline;
+	margin: 10px 0px;
+}
+
+button {
+	margin: 5px 0px;
+}
+
+input[type="submit"] {
+	margin: 5px 0px;
+}
