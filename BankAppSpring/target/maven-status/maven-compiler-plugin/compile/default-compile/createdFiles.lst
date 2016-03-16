@@ -1,0 +1,13 @@
+com\gentlab\bankappspring\controller\BankController.class
+com\gentlab\bankappspring\model\Client.class
+com\gentlab\bankappspring\model\CurrentAccount.class
+com\gentlab\bankappspring\repository\ClientDAOImpl.class
+com\gentlab\bankappspring\model\SavingsAccount.class
+com\gentlab\bankappspring\service\ClientServiceImpl.class
+com\gentlab\bankappspring\model\AccountTypes.class
+com\gentlab\bankappspring\model\Account.class
+com\gentlab\bankappspring\repository\AccountDAO.class
+com\gentlab\bankappspring\repository\ClientDAO.class
+com\gentlab\bankappspring\model\RequestTypes.class
+com\gentlab\bankappspring\service\ClientService.class
+com\gentlab\bankappspring\repository\AccountDAOImpl.class
